@@ -14,7 +14,7 @@ body {
     grid-template-rows: auto;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     row-gap: 15px;
-    column-gap: 30px;
+    column-gap: 40px;
 }
 img {
     grid-row: 1/5;
